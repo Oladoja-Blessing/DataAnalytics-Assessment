@@ -63,8 +63,7 @@ This query estimates CLV by combining customer tenure with transaction data.
 
 ---
 
-Thank you for reviewing my Data Analytics SQL Assessment submission. I look forward to your feedback.
-
+Thank you!
 ---
 
 **Blessing Oladoja**  
