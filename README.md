@@ -1,6 +1,6 @@
-# DataAnalytics-Assessment
+# Fintech-Analytics-SQL
 
-Welcome to the Data Analytics SQL Proficiency Assessment repository. This project contains SQL queries developed to solve various business scenarios using a relational database containing customer, savings, and plan transaction data.
+This project contains SQL queries developed to solve various business scenarios using a relational database containing customer, savings, and plan transaction data.
 
 ---
 
